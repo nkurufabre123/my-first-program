@@ -1,2 +1,2 @@
 # my-first-program
-first in programming 
+first in programming using Git commands 
